@@ -214,7 +214,7 @@ function App() {
 							</p>
 						</div>
 						<div className="mb-5 h-px w-full bg-theme-light-toggle mobile:hidden" />
-						<label className="relative mb-8 flex cursor-pointer items-center justify-between mobile:mb-0 mobile:ml-auto">
+						<label className="relative mb-8 flex cursor-pointer select-none items-center justify-between mobile:mb-0 mobile:ml-auto">
 							<div
 								className={`font-bold ${
 									darkMode
